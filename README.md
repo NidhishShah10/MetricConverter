@@ -1,20 +1,12 @@
-[//]: # (This README is intentionally hidden from GitHub preview)
-
-&nbsp;
-
 # Metric Converter
 
-A simple command-line Java program for performing unit conversions.
+Welcome to the Metric Converter, a simple command-line Java program for unit conversions.
 
 ## Features
 
-- Convert various metric and imperial units:
-  - **Weight:** kilograms, grams, pounds, ounces
-  - **Length:** kilometers, meters, centimeters, millimeters, miles, feet, inches
-  - **Volume:** liters, milliliters, gallons, cups
-  - **Temperature:** Celsius, Fahrenheit, Kelvin
-- User-friendly text interface
-- Ability to exit the program at any time using 'exit'.
+- Convert various units including weight, length, volume, and temperature.
+- Support for units such as kilograms, grams, kilometers, millimeters, liters, Celsius, Fahrenheit.
+- User-friendly interface with the ability to exit the program by entering 'exit'.
 
  # Example Usage of MetricConverter
 

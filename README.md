@@ -1,4 +1,6 @@
-<!-- This README is intentionally structured to hide GitHub's preview in the repository list -->
+[//]: # (This README is intentionally hidden from GitHub preview)
+
+&nbsp;
 
 # Metric Converter
 
